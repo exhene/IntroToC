@@ -1,3 +1,3 @@
-# IntroToC
+# TestingC
 
 C is a high-level, general-purpose programming language that was developed in the early 1970s by Dennis Ritchie at Bell Labs. It is a widely used programming language that is known for its efficiency, flexibility, and portability across different platforms. C is a compiled language, meaning that the source code is converted into machine-readable code by a compiler before execution. C has been used to develop many popular software applications, operating systems, and programming languages such as UNIX, Linux, Microsoft Windows, and Java. It is a foundational language in computer science education and remains relevant today as a preferred language for system programming, embedded systems, and other low-level programming tasks.
